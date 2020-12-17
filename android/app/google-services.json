@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "292482634815",
+    "firebase_url": "https://iiitk-blog.firebaseio.com",
+    "project_id": "iiitk-blog",
+    "storage_bucket": "iiitk-blog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292482634815:android:e254d8dcf564065578d48a",
+        "android_client_info": {
+          "package_name": "com.example.iiitk_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292482634815-9hbmreddfdqbrjbng6n41uc8o7j8a2os.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVO4n08LAD5c8LcOXDQY_sq_yUlr0Ay0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292482634815-9hbmreddfdqbrjbng6n41uc8o7j8a2os.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
